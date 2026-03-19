@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sellmyhousefastenfield.co.uk/sitemap.xml
